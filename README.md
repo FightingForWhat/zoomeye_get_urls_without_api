@@ -22,4 +22,4 @@ zoomeye的urlencode方式和python的不太一致，有时候关键词复杂的�
 
 当然，如果你觉得好用，别忘了给我买杯咖啡。
 
-![](weixin.png)
+![](weixins.png)
